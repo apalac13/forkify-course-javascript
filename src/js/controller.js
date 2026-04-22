@@ -9,8 +9,6 @@ import addRecipeView from './views/addRecipeView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-import { async } from 'regenerator-runtime';
-import { unscopables } from 'core-js/fn/symbol';
 
 // NEW API URL (instead of the one shown in the video)
 // https://forkify-api.jonas.io
